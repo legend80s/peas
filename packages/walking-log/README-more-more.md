@@ -4,13 +4,13 @@
 
 > *"We are the walking dead."* — a humble nod to Rick Grimes' famous line, because in a world of over-engineering, sometimes you just need something that keeps it simple and keeps things going.
 >
-> <img src="https://github.com/legend80s/my-npm-dashboard/raw/refs/heads/main/src/backend/utils/logger/assets/languages.svg" width="16" height="16" alt="Chinese:" /> *"We are the walking dead."* —— 这是对 Rick Grimes 经典台词的谦卑致敬。因为在过度工程化的世界里，有时候你只需要一个能保持简单、持续前行的小工具。
+> <img src="https://github.com/legend80s/peas/raw/refs/heads/main/packages/walking-log/assets/languages.svg" width="16" height="16" alt="Chinese:" /> *"We are the walking dead."* —— 这是对 Rick Grimes 经典台词的谦卑致敬。因为在过度工程化的世界里，有时候你只需要一个能保持简单、持续前行的小工具。
 
 **walking-log** is a minimal console logger for **Node.js only**.
 
 Like a walker in the terminal wasteland, it does one thing and does it well — **print to the console**. No browser, no DOM, no distractions. Just pure, simple logging for your Node.js applications.
 
-<img src="https://github.com/legend80s/my-npm-dashboard/raw/refs/heads/main/src/backend/utils/logger/assets/languages.svg" width="16" height="16" alt="Chinese:" /> 就像终端废土上的一个行者，它只做一件事，并把它做好——打印到控制台。不涉及浏览器，不涉及 DOM，没有多余干扰。就是为你的 Node.js 应用提供纯粹、简单的日志打印。
+<img src="https://github.com/legend80s/peas/raw/refs/heads/main/packages/walking-log/assets/languages.svg" width="16" height="16" alt="Chinese:" /> 就像终端废土上的一个行者，它只做一件事，并把它做好——打印到控制台。不涉及浏览器，不涉及 DOM，没有多余干扰。就是为你的 Node.js 应用提供纯粹、简单的日志打印。
 
 ## Why walking-log?
 
@@ -20,7 +20,7 @@ Like a walker in the terminal wasteland, it does one thing and does it well — 
 
 When the world is full of complex logging frameworks, be a walker. Keep it simple. Keep it moving.
 
-中文 <img src="https://github.com/legend80s/my-npm-dashboard/raw/refs/heads/main/src/backend/utils/logger/assets/languages.svg" width="16" height="16" alt="Chinese:" />：
+中文 <img src="https://github.com/legend80s/peas/raw/refs/heads/main/packages/walking-log/assets/languages.svg" width="16" height="16" alt="Chinese:" />：
 
 - 🧟 仅限 Node.js —— 不会游荡到浏览器领域。
 - 🎯 单一职责 —— 打印到控制台。就这些。没有插件，没有冗余。
@@ -40,7 +40,7 @@ When you need a simple, lightweight logging solution for your Node.js CLI projec
 ---
 
 *"In a world of frameworks, just be a log."*  
-*"<img src="https://github.com/legend80s/my-npm-dashboard/raw/refs/heads/main/src/backend/utils/logger/assets/languages.svg" width="16" height="16" alt="Chinese:" /> 在一个充满框架的世界里，只做一个日志器。"*
+*"<img src="https://github.com/legend80s/peas/raw/refs/heads/main/packages/walking-log/assets/languages.svg" width="16" height="16" alt="Chinese:" /> 在一个充满框架的世界里，只做一个日志器。"*
 
 ## The Story Behind the Name / 命名由来
 
@@ -58,7 +58,7 @@ It just **prints to the console**. One step at a time. One line at a time.
 
 Like a walker, it has one purpose: move forward. In our case, that means printing whatever you tell it to print — right there in your Node.js terminal.
 
-### 中文 <img src="https://github.com/legend80s/my-npm-dashboard/raw/refs/heads/main/src/backend/utils/logger/assets/languages.svg" width="16" height="16" alt="Chinese:" />
+### 中文 <img src="https://github.com/legend80s/peas/raw/refs/heads/main/packages/walking-log/assets/languages.svg" width="16" height="16" alt="Chinese:" />
 
 **walking-log** 这个名字的灵感来源于经典剧集《行尸走肉》（*The Walking Dead*），但赋予了一层开发者视角的解读。
 
@@ -76,6 +76,6 @@ Like a walker, it has one purpose: move forward. In our case, that means printin
 
 Because it's not trying to be a full-fledged **logger** with all the bells and whistles. It's just a **log** — a single, honest print statement. Simple, humble, and enough.
 
-### 中文 <img src="https://github.com/legend80s/my-npm-dashboard/raw/refs/heads/main/src/backend/utils/logger/assets/languages.svg" width="16" height="16" alt="Chinese:" />
+### 中文 <img src="https://github.com/legend80s/peas/raw/refs/heads/main/packages/walking-log/assets/languages.svg" width="16" height="16" alt="Chinese:" />
 
 因为它不试图成为一个功能齐全的 **logger**（日志器），带那么多花哨功能。它就是一个 **log**（日志）—— 一次简单、诚实的打印输出。简单、谦逊，且足够用。

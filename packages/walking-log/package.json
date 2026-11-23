@@ -24,13 +24,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/legend80s/my-npm-dashboard/blob/main/src/backend/utils/logger"
+    "url": "https://github.com/legend80s/peas/tree/main/packages/walking-log"
   },
-  "homepage": "https://github.com/legend80s/my-npm-dashboard/blob/main/src/backend/utils/logger/README.md",
-  "devDependencies": {
-    "npm-shipwright": "^0.3.0",
-    "typescript": "^7.0.2"
-  },
+  "homepage": "https://github.com/legend80s/peas/tree/main/packages/walking-log",
   "keywords": [
     "consola",
     "console",

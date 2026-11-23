@@ -13,15 +13,15 @@
 >
 > **walking-log** is a colorful yet minimal console log for **Node.js only**.
 
-> <img src="https://github.com/legend80s/my-npm-dashboard/raw/refs/heads/main/src/backend/utils/logger/assets/languages.svg" width="16" height="16" alt="Chinese:" /> 就是一个 Node.js 控制台彩色 console.log 而已，不涉及浏览器，仅为 Node.js CLI 提供纯粹、简单的信息输出。
+> <img src="https://github.com/legend80s/peas/raw/refs/heads/main/packages/walking-log/assets/languages.svg" width="16" height="16" alt="Chinese:" /> 就是一个 Node.js 控制台彩色 console.log 而已，不涉及浏览器，仅为 Node.js CLI 提供纯粹、简单的信息输出。
 
 ## 🦋 Features
 
-[![walking-log](https://img.shields.io/badge/walking--log-black?logo=github)](https://github.com/legend80s/my-npm-dashboard/blob/main/src/backend/utils/logger) **0** dependencies, just one file with 120 LOC 🤏. It's a drop-in replacement for [consola](https://www.npmjs.com/package/consola).
+[![walking-log](https://img.shields.io/badge/walking--log-black?logo=github)](https://github.com/legend80s/peas/tree/main/packages/walking-log) **0** dependencies, just one file with 120 LOC 🤏. It's a drop-in replacement for [consola](https://www.npmjs.com/package/consola).
 
 Copy or install however you like.
 
-<img src="https://github.com/legend80s/my-npm-dashboard/raw/refs/heads/main/src/backend/utils/logger/assets/languages.svg" width="16" height="16" alt="Chinese:" /> [![walking-log](https://img.shields.io/badge/walking--log-black?logo=github)](https://github.com/legend80s/my-npm-dashboard/blob/main/src/backend/utils/logger) **零**依赖，仅 120 行代码的单文件。可当做 consola 的轻量级替代品。复制或安装随意。
+<img src="https://github.com/legend80s/peas/raw/refs/heads/main/packages/walking-log/assets/languages.svg" width="16" height="16" alt="Chinese:" /> [![walking-log](https://img.shields.io/badge/walking--log-black?logo=github)](https://github.com/legend80s/peas/tree/main/packages/walking-log) **零**依赖，仅 120 行代码的单文件。可当做 consola 的轻量级替代品。复制或安装随意。
 
 ## 👣 Quick Start
 
