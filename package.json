@@ -12,6 +12,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@changesets/cli": "^3.0.3",
     "@types/node": "^26.6.6",
     "npm-shipwright": "^0.3.0",
     "typescript": "^7.0.2"
