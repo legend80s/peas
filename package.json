@@ -2,7 +2,7 @@
   "name": "peas",
   "version": "1.0.0",
   "private": true,
-  "description": "A pseudo mono repo for utils only run in Node.js.",
+  "description": "A pseudo mono repo for util packages only run in Node.js such as walking-log, walking-file-logger etc.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
