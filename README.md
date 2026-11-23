@@ -1,7 +1,7 @@
 # Peas
 
 <div align="center">
-  <img src="https://koboyo.com/icons/svg/pea-pod.svg" width="26%" />
+  <img src="https://koboyo.com/icons/svg/pea-pod.svg" width="15%" />
 </div>
 
 > A pseudo mono repo for util packages only run in Node.js such as walking-log, walking-file-logger etc.
