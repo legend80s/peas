@@ -1,0 +1,17 @@
+{
+  "name": "peas",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A pseudo mono repo for utils only run in Node.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "npm-shipwright": "^0.3.0",
+    "typescript": "^7.0.2"
+  }
+}
