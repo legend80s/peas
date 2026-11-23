@@ -13,7 +13,7 @@
   ],
   "scripts": {
     "test": "node --test",
-    "typecheck": "tsc --noEmit",
+    "typecheck": "which tsc && tsc -v && tsc --noEmit",
     "generate:types": "tsc index.js --declaration --emitDeclarationOnly --outDir dist --ignoreConfig --allowJs",
     "commit": "bash ../../scripts/git-commit.sh",
     "pub:patch": "npm version patch",

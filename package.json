@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@types/node": "^26.6.6",
     "npm-shipwright": "^0.3.0",
     "typescript": "^7.0.2"
   }
