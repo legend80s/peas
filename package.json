@@ -6,6 +6,9 @@
   "description": "A pseudo mono repo for util packages only run in Node.js such as walking-log, walking-file-logger etc.",
   "main": "index.js",
   "scripts": {
+    "changeset": "changeset",
+    "version": "pnpm run -r preversion && changeset version",
+    "release": "changeset && pnpm run version && changeset publish",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
