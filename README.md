@@ -8,6 +8,15 @@
 
 It is just a shell—like a pea pod—for shared `devDependencies` (TypeScript, Biome, [npm-shipwright](https://www.npmjs.com/package/npm-shipwright), etc.) and shared files (.gitignore, etc.) across the packages in `./packages/**`.
 
-## Notice
+> [!CAUTION]
+>
+> - This repo should not be published. Only `./packages/**` can be published.
 
-- This repo should not be published. Only `./packages/**` can be published.
+## Publish
+
+Should publish all packages in `./packages/**` with the same command in the root directory:
+
+```bash
+# root
+pnpm release
+```

@@ -1,5 +1,11 @@
 # walking-log
 
+## 1.2.3
+
+### Patch Changes
+
+- test changeset publish flow 2
+
 ## 1.2.2
 
 ### Patch Changes
