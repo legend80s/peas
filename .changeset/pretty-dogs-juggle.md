@@ -1,5 +1,0 @@
----
-"walking-log": patch
----
-
-test
